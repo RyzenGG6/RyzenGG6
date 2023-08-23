@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am SIDHARTH A V, Mobile App Developer<br>Highly interested in Building Apps<br>🔭 I’m currently working on Android App Development<br>👯 I’m looking to collaborate on Android App Projects<br>🌱 I’m currently learning Android App Development<br>💬 Ask me about Java , Android<br>contact me at sidharthav4321@gmail.com
+I am SIDHARTH A V, Mobile App Developer<br>Highly interested in Building Apps<br>🔭 I’m currently working on Android App Development<br>👯 I’m looking to collaborate on Android App Projects<br>🌱 I’m currently learning Android App Development<br>💬 Ask me about Java , Android, Dart, Flutter, React Native<br>contact me at sidharthav4321@gmail.com
 
 
 # 💻 Tech Stack:
