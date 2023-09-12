@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sidharth_a_v" target="blank"><img src="https://img.shields.io/twitter/follow/sidharth_a_v?logo=twitter&style=for-the-badge" alt="sidharth_a_v" /></a> </p>
 
-- 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **React Native**
+
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Android, Flutter and React Native Projects**
 
