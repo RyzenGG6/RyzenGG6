@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Android, Flutter and React Native Projects**
 
